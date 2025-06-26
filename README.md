@@ -1,5 +1,7 @@
 # 4일차
 ### 자율주행 코드에 대해 배움
+https://docs.google.com/document/d/1FA0sFxhFDvLXd1n05eeG_ynkdImzaR6Ff19dHeRtbao/edit?tab=t.0
+
 GPS에 쓰이는 변수들.
 1. 위도 (Latitude) : 지구의 수직방향 위치, 적도를 기준선으로 북쪽·남쪽 방향으로 측정한 각도. 범위: −90°(남극) ~ +90°(북극)
 2. 경도 (Longitude) : 본초 자오선(영국 그리니치)으로부터 동쪽·서쪽 방향으로 측정한 각도. 범위: −180°(서경) ~ +180°(동경)
