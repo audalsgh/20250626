@@ -12,3 +12,7 @@ GPS에 쓰이는 변수들.
 위도 37.5665° N (Latitude 37.5665° N)
 경도 126.9780° E (Longitude 126.9780° E)
 고도 38 m (Elevation 38 m)
+
+### 리스트와 딕셔너리
+https://claude.ai/public/artifacts/fd98c798-ab20-40a4-8a3b-537503b9849c
+
