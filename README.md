@@ -26,3 +26,14 @@ https://claude.ai/public/artifacts/fd98c798-ab20-40a4-8a3b-537503b9849c
 .pop(): 마지막 값 제거하고 반환
 .len(리스트): 리스트 길이(개수) 반환 - 매우 자주 사용!
 ```
+
+딕셔너리 개념을 이해하기위한 애니메이션 링크 :
+https://claude.ai/public/artifacts/a11af36d-c9fa-4366-9580-379644d1af5d
+
+```
+값 수정하기
+student["age"] = 21
+
+새로운 키-값 쌍 추가하기
+student["major"] = "컴퓨터공학"
+```
